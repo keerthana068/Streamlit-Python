@@ -23,7 +23,7 @@ if __name__ == '__main__':
     
     
 if choice == "Home":
-    """Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Volutpat blandit aliquam etiam erat velit. Elementum pulvinar etiam non quam lacus. Malesuada proin libero nunc consequat interdum varius sit. Ac turpis egestas integer eget aliquet nibh praesent tristique. Ullamcorper eget nulla facilisi etiam dignissim diam quis. Feugiat sed lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi. Eu nisl nunc mi ipsum. Sem integer vitae justo eget magna fermentum iaculis eu non. Neque volutpat ac tincidunt vitae semper quis lectus nulla at. Leo a diam sollicitudin tempor."""
+    """Meal delivery companies benefit from forecasting food demand to provide an exceptional customer experience. The largest benefit of food demand forecasting is the inventory positions, optimize pricing, and reducing waste. Forecasting weekly demand helps in increasing the net profit of the company, however forecasting too high will be inefficient for the business resulting in buying too much product, facing potential spoilage or waste, while also missing opportunities to invest capital elsewhere. Forecasting too low lead to less sales opportunities while decreasing customer experiences and satisfaction levels for the company. So, predicting the exact demand is a challenge because of uncertainty and fluctuations in consumer demand."""
 
     
 elif choice == "Dataset":
